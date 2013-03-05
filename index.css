@@ -1,0 +1,13 @@
+#canvasBG{
+  border:2px solid black;
+	display:block;
+	margin: 100px auto 0px;
+	background:#ffffff;
+}
+#canvasGuy,#canvasCloud{
+display:block;
+margin:-500px auto 0px;
+}
+body{
+	background:#303030;
+}
